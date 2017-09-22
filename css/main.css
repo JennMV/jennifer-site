@@ -41,7 +41,3 @@ a {
   text-decoration: none;
   color: #D92126;
 }
-
-li::before {
-  list-style-type: none;
-}
