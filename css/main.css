@@ -4,7 +4,7 @@ html {
 }
 
 main {
-  margin-top: 25%;
+  margin-top: 30%;
 }
 
 h1 {
@@ -20,7 +20,14 @@ p {
   color: #fff;
 }
 
-@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 38em) {
+  main {
+    margin-top: 20%;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
   main {
     margin-top: 10%;
   }
